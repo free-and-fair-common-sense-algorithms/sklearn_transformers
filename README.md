@@ -26,9 +26,9 @@ Free and Fair Commonsense Algorithms for Society (FAFCSAFS) was founded in 2020,
 
 ## Contributing
 
-Free and Fair Commonsense Algorithms for Society (FAFCSAFS) is a community project. We invite your participation through the development of new algorithms to be featured on the [website](#) for anyone to use, or pull requests improving the development process and architecture, or website, or by submitting issues.
+Free and Fair Commonsense Algorithms for Society (FAFCSAFS) is a community project. We invite your participation through the development of new algorithms to be featured on the [website](https://free-and-fair-common-sense-algorithms-for-society.org/) for anyone to use, or pull requests improving the development process and architecture, or website, or by submitting issues.
 
-If you are interested in contributing, please read the [contribution guide](./CONTRIBUTING.md).
+If you are interested in contributing, please read the [contribution guide](https://github.com/free-and-fair-common-sense-algorithms/algorithms/blob/master/CONTRIBUTING.md).
 
 
 
